@@ -1,5 +1,4 @@
 import './App.css';
-import './REACT-RUSH-HOUR-HOME/RUSH-HOUR-HOME/Body'
 import Body from './REACT-RUSH-HOUR-HOME/RUSH-HOUR-HOME/Body';
 
 function App() {
