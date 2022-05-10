@@ -1,9 +1,10 @@
 import React from 'react';
 import "./HOME-CSS/Body.css";
+import CAR_PLAYER from './CAR-PLAYER';
 function Map(){
     return(
     <div>
-        <table>
+        <table className='Map'>
             <tr>
                 <td>
                     <div className='Primitive'></div>
@@ -37,6 +38,7 @@ function Map(){
                     <div className='Primitive'></div>
                 </td>
             </tr>
+        <CAR_PLAYER/>
         </table>
     </div>
     );
