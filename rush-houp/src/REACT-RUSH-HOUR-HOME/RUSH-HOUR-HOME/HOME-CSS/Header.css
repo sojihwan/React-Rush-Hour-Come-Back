@@ -1,0 +1,16 @@
+ .Header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 180px;
+    width: 100%;
+    background-color: rgb(54, 49, 0);
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+.title{
+    position: fixed;
+    left: 0px;
+    top: -200px;
+}

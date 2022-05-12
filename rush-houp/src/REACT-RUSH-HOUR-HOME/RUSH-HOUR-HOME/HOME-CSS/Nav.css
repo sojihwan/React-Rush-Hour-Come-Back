@@ -1,0 +1,17 @@
+.Nav{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    height: 135px;
+    width: 100%;
+    background-color: rgb(204, 204, 127);
+    color: white;
+    text-align: center;
+}
+.Move{
+    font-size: 20px;
+    background-color: rgb(173, 152, 32);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+}
