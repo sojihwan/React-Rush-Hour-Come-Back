@@ -1,6 +1,7 @@
 import React from 'react';
 import "./HOME-CSS/STAGE.css";
 function Map(){
+
     
     return(
     <div>
