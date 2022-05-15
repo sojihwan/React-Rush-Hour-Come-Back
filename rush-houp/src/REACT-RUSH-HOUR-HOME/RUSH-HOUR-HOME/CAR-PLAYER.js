@@ -1,8 +1,8 @@
 import React from 'react';
 import "./HOME-CSS/Car.css";
 function CAR_PLAYER(){
-    const onGoing = (e) =>{
-
+    const onGoing = {
+        getComputedStyle
     }
     return(
         <div>
